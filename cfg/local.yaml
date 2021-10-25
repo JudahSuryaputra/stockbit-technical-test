@@ -1,0 +1,10 @@
+PORT: 5000
+
+ABBASOURCE_SECRET: '@bba!soursource'
+DB_HOST: localhost
+DB_USER: postgres
+DB_PASSWORD: '123456'
+DB_NAME: stockbit_dev
+
+OMDB_URL: 'https://omdbapi.com'
+OMDB_KEY: 'apikey=792dbebf'
