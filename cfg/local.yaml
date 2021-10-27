@@ -1,6 +1,6 @@
 PORT: 5000
 
-ABBASOURCE_SECRET: '@bba!soursource'
+ABBASOURCE_SECRET: 'stockbit'
 DB_HOST: localhost
 DB_USER: postgres
 DB_PASSWORD: '123456'
